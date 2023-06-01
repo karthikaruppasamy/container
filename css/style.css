@@ -1,0 +1,79 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.container{
+	width:1200px;
+	height:100vh;
+	border:1px solid grey;
+	border-radius:5px;
+	padding:25px;
+	margin:30px auto;
+	display:flex;
+	flex-direction:column;
+	gap:10px;
+}
+
+.primary{
+	background-color:#CFE2FF;
+	color:#3867d6;
+	border:1px solid #CFE2FF;
+	border-radius:5px;
+	padding:20px 20px;
+}
+.secondary{
+	background-color:#E2E3E5;
+	color:grey;
+	border:1px solid #E2E3E5 ;
+	border-radius:5px;
+	padding:20px 20px;
+	
+}
+.success{
+	background-color:#78e08f;
+	color:#009432;
+	border:1px solid ;
+	border-radius:5px;
+	padding:20px 20px;
+	
+}
+.danger{
+	background-color:#F7D7DA;
+	color:#d63031;
+	border:1px solid ;
+	border-radius:5px;
+	padding:20px 20px;
+	}
+.warning{
+	background-color:#ffeaa7;
+	color:#636e72;
+	border:1px solid ;
+	border-radius:5px;
+	padding:20px 20px;
+}
+.info{
+	background-color:#CFF4FC;
+	color:#636e72;
+	border:1px solid ;
+	border-radius:5px;
+	padding:20px 20px;
+}
+.light{
+	background-color:#FEFEFE;
+	color:#636e72;
+	border:1px solid ;
+	border-radius:5px;
+	padding:20px 20px;
+}
+.dark{
+	background-color:#b2bec3;
+	color:#636e72;
+	border:1px solid ;
+	border-radius:5px;
+	padding:20px 20px;
+}	
+	
+	
+	
